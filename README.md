@@ -1,4 +1,4 @@
-# nfz-spook
+# people counter
 schedule==0.6.0
 numpy==1.19.2
 argparse==1.4.0
